@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Co-Directors</b> -- Hoyt Long (University of Chicago) & Richard Jean So (Duke University)
+subtitle: <b>Co-Directors</b> -- <a href="https://ealc.uchicago.edu/people/hoyt-long-phd">Hoyt Long</a> (University of Chicago) & <a href="https://richardjeanso.github.io">Richard Jean So</a> (Duke University)
 
 profile:
   align: right
@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
