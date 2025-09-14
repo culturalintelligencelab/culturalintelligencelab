@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "culturalintelligencelab/culturalintelligencelab",
+    "data-repo": "culturalintelligencelab/culturalintelligencelab.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
