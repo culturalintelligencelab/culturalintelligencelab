@@ -6,8 +6,8 @@ subtitle: <b>Co-Directors</b> -- <a href="https://ealc.uchicago.edu/people/hoyt-
 
 profile:
   align: right
-  image: phonographparrots.jpg
-  image_circular: true # crops the image to make it circular
+  image: landing_page.png
+  image_circular: false # crops the image to make it circular
   more_info: >
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Our lab explores the intersection of AI and culture by developing computational tools that study and model cultural phenomena. We leverage cultural theory and critical insight not only to enrich AI systems but also to better understand AI itself as a cultural system. Recognizing culture as the infrastructure of the social world, we investigate how aesthetics, narrative, and interpretation shape social outcomes—ranging from elections and misinformation to vaccine hesitancy and beyond. This collaborative work aims to reveal the causal and generative power of culture in shaping both society and technology.
+<p>How humans make sense of culture, and how we use culture to make sense of our world, is fundamentally wrapped up in the technologies that mediate cultural production and consumption. Our lab explores these complex dynamics through the idea of <b>cultural intelligence</b>, a term which captures both how culture is constituted at any given time and place and the ways we have to make sense of it. Increasingly, cultural intelligence is being mediated through compuatation in the form of algorithms, AI, and other advanced technical systems. We leverage cultural theory, critical insight, and computational tools to better understand these systems, but also to diagnose their social effects and identify ways of enriching them with an attention to culture itself. Recognizing culture as the infrastructure of the social world, we investigate how aesthetics, narrative, and interpretation shape social outcomes—ranging from elections and misinformation to creativity and beyond. This collaborative work aims to reveal the causal and generative power of culture in shaping society and technology today.</p>
