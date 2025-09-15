@@ -267,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Long]
-  first_name: [Hoyt, H.]
+  last_name: [Long, So]
+  first_name: [Hoyt, H., Richard Jean, R.J.]
 
   style: apa
   locale: en
