@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Co-Directors** Hoyt Long (University of Chicago) and Richard Jean So (Duke University)
+subtitle: <b>Co-Directors</b> -- Hoyt Long (University of Chicago) and Richard Jean So (Duke University)
 
 profile:
   align: right
