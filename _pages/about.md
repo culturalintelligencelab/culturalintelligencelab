@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Co-Directors</b> -- <a href="https://ealc.uchicago.edu/people/hoyt-long-phd">Hoyt Long</a> (University of Chicago) & <a href="https://richardjeanso.github.io">Richard Jean So</a> (Duke University)
+subtitle: **Co-Directors** [Hoyt Long](https://ealc.uchicago.edu/people/hoyt-long-phd) (University of Chicago) and [Richard Jean So](https://richardjeanso.github.io) (Duke University)
 
 profile:
   align: right
   image: landing_page.png
   image_circular: false # crops the image to make it circular
-  more_info: >
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -16,11 +15,11 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
