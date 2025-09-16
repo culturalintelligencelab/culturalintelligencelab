@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Co-Directors</b> -- Hoyt Long (University of Chicago) and Richard Jean So (Duke University)
+subtitle:  
 
 profile:
   align: right
@@ -23,9 +23,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+**Co-Directors:** Hoyt Long (University of Chicago) and Richard Jean So (Duke University)
 
-How humans make sense of culture, and how we use culture to make sense of our world, is fundamentally wrapped up in the technologies that mediate cultural production and consumption. Our lab explores these complex dynamics through the idea of **cultural intelligence**, a term which captures both how culture is constituted at any given time and place and the ways we have for making sense of it. Increasingly, cultural intelligence is being mediated through computation in the form of algorithmic feeds, large language models, and other advanced technical systems.
+How humans make sense of culture, and how we use culture to make sense of our world, are inseperable from the technologies that mediate these processes. Our lab explores this intersection through the idea of **cultural intelligence**, a term which captures both what we know about culture in a given context and how we know it. Increasingly, human cultural intelligence is mediated through computation, whether in the form of algorithmic feeds, large language models, or other advanced systems for controlling and distributing information.
 
-We leverage **cultural theory, critical insight, and computational tools** to better understand these systems, but also to diagnose their social effects and identify ways of enriching them with an attention to culture itself. Recognizing culture as the infrastructure of the social world, we investigate how aesthetics, narrative, and interpretation shape social outcomes—ranging from elections and misinformation to creative storytelling and beyond. Our research projects aim to reveal the causal and generative power of culture in shaping society and technology today.
+We leverage **cultural theory, critical insight, and computational tools** to better understand the impacts of these systems on cultural intelligence and to devise strategies for responding to these impacts. Recognizing culture as the infrastructure of the social world, we investigate how aesthetics, narrative, and interpretation shape social outcomes—ranging from elections and misinformation to polarization and beyond. Our research aims to illustrate both the causal and generative power of culture in shaping the alliances and divisions of contemporary society.
 
 For more information or to connect with our lab's activities, please email *<hoytlong@uchicago.edu>* or *<richard.so@duke.edu>*.
