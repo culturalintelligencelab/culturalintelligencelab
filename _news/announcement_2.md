@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-We present some of our recent on cultural agents at the [Conference on Artificial Intelligence](https://www.cla.purdue.edu/academic/english/publications/mfs/conference-on-ai.html) at Purdue University
+CIL directors Hoyt and Richard present recent work on cultural agents at the [Conference on Artificial Intelligence](https://www.cla.purdue.edu/academic/english/publications/mfs/conference-on-ai.html), Purdue University
