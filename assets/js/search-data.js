@@ -391,13 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-cultural-intelligence-lab-website-goes-live",
           title: 'Cultural Intelligence Lab website goes live!',
+          description: "",
+          section: "News",},{id: "news-we-present-some-of-our-recent-on-cultural-agents-at-the-conference-on-artificial-intelligence-at-purdue-university",
+          title: 'We present some of our recent on cultural agents at the Conference on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
